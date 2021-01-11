@@ -4,6 +4,7 @@ h1 {
     color: rgb(255, 255, 255);
 }
 section {
+    text-align: center;
     background-color: rgb(116, 117, 119);
 }
 p {
