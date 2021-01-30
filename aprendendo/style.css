@@ -1,11 +1,13 @@
+
 h1 {
     font-size: 60px;
-    background-color: #260004;
-    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to bottom, #0F0F11, #2E2D2B, #757575);
+    color: rgb(223, 219, 219);
 }
 section {
     text-align: center;
-    background-image: linear-gradient(to right, #60605F, #2E2D2B, #0F0F11);
+    background-image: linear-gradient(to bottom, #7c7c7b, #413f3d, #1f1f24ec);
+    background-attachment: fixed;
 }
 p {
     color: rgb(0, 0, 0);
