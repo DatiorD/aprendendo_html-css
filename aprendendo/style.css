@@ -5,7 +5,7 @@ h1 {
 }
 section {
     text-align: center;
-    background-color: #B86E60;
+    background-image: linear-gradient(to right, #60605F, #2E2D2B, #0F0F11);
 }
 p {
     color: rgb(0, 0, 0);
