@@ -1,13 +1,18 @@
+body {
+    background-image: linear-gradient(to bottom, #7c7c7b, #413f3d, #1f1f24ec);
+}
 
 h1 {
     font-size: 60px;
-    background-image: linear-gradient(to bottom, #0F0F11, #2E2D2B, #757575);
-    color: rgb(223, 219, 219);
 }
 section {
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, #c8c8c5, #9b9b9b);
+    width: 700px;
     text-align: center;
-    background-image: linear-gradient(to bottom, #7c7c7b, #413f3d, #1f1f24ec);
     background-attachment: fixed;
+    margin: auto;
+    padding: 14px;
 }
 p {
     color: rgb(0, 0, 0);
